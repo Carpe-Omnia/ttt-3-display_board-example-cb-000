@@ -2,6 +2,6 @@
 empty_cell = "   "
 line = "-----------"
 def display_board
-  puts " empty_cell "
+  puts  empty_cell
 end
 display_board
