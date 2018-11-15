@@ -7,4 +7,5 @@ def display_board
   puts "#{empty_cell}|#{empty_cell}|#{empty_cell}"
   puts line
   puts "#{empty_cell}|#{empty_cell}|#{empty_cell}"
-end  
+end
+display_board
